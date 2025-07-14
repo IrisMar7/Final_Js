@@ -5,7 +5,7 @@ SPA con autenticación, persistencia de sesión y gestión de eventos (CROD) con
 
 ## Instalación
 ```bash
-git clone <  >
+git clone < https://github.com/IrisMar7/Final_Js >
 cd interactive-events-full-spa
 npm install
 npx json-server --watch db.json --port 3000
