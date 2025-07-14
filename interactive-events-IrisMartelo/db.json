@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "admin@demo.com",
+      "password": "admin123",
+      "role": "admin"
+    }
+  ],
+  "events": [],
+  "registrations": []
+}
